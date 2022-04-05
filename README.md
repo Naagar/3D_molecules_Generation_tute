@@ -1,1 +1,2 @@
-# 3D_molecules_tute
+# 3D molecules generation tutorial
+## using generative models
